@@ -1,6 +1,10 @@
 Parabéns! Você está usando o GIT!!!
 <<<<<<< HEAD
+<<<<<<< HEAD
 aa
+=======
+Vlw(Felipe)
+>>>>>>> d8ddca11a76399b6f24b345d9b48083254ce7e32
 =======
 obrigado(Andryck)
 >>>>>>> 41d758b9ce3474ee63de734cff7a65a7d78b0b58
