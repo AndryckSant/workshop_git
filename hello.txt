@@ -1,2 +1,6 @@
 Parabéns! Você está usando o GIT!!!
+<<<<<<< HEAD
 aa
+=======
+obrigado(Andryck)
+>>>>>>> 41d758b9ce3474ee63de734cff7a65a7d78b0b58
